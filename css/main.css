@@ -1606,3 +1606,11 @@ td.td.sv_matrix_cell .sv_qbln .sv-boolean {
   font-size: 0.85em;
 }
 
+.sv_q_rating_min_text,
+.sv_q_rating_max_text {
+    display: inline-block;
+    width: 10em;
+    vertical-align: middle;
+    font-size: smaller;
+    line-height: normal;
+}
